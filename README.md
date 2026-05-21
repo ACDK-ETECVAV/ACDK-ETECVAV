@@ -1,16 +1,61 @@
-## Hi there 👋
+<p align="center">
+  <img src="COLOQUE_AQUI_O_LINK_DA_IMAGEM_OU_BANNER" width="100%">
+</p>
 
-<!--
-**ACDK-ETECVAV/ACDK-ETECVAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 ACDK | INFONET
 
-Here are some ideas to get you started:
+<p align="center">
+Grupo acadêmico do curso técnico de <strong>Informática para Internet</strong> da ETECVAV.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Integrantes
+
+- 🧑🏻 Anthony Muraro  
+- 👱🏻 Calebe Barros Ramalho da Silva  
+- 🧢 Daniel Teixeira Vitoriano  
+- 🍰 Kelven Chetz Man Gallippi  
+
+---
+
+## 🎓 Instituição
+
+**ETECVAV**  
+Escola Técnica Estadual Vasco Antônio Venchiarutti  
+
+---
+
+## 📚 Disciplinas
+
+- 🌐 Desenvolvimento Web  
+- 🗄️ Banco de Dados  
+- 🖼️ Arte Digital  
+- 💡 Programação e Algoritmos  
+
+---
+
+## 📸 Galeria / Projetos
+
+<p align="center">
+  <img src="COLOQUE_AQUI_UMA_IMAGEM_OU_GIF" width="250px">
+  <img src="COLOQUE_AQUI_OUTRA_IMAGEM_OU_GIF" width="250px">
+</p>
+
+---
+
+## 📌 Sobre
+
+Este perfil foi criado para compartilhar atividades, projetos, exercícios e conteúdos desenvolvidos durante o curso INFONET.
+
+---
+
+## 📬 Contato
+
+📧 **Email:** aleatorizando29@gmail.com
+
+---
+
+<p align="center">
+  <img src="img/etecvav.png" width="120px">
+</p>
