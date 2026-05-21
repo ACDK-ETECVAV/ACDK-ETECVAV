@@ -57,5 +57,5 @@ Este perfil foi criado para compartilhar atividades, projetos, exercícios e con
 ---
 
 <p align="center">
-  <img src="img/etecvav.png" width="120px">
+  <img src="img/etecvav.png" width="500px">
 </p>
