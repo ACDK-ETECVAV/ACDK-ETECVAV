@@ -38,6 +38,7 @@ Escola Técnica Estadual Vasco Antônio Venchiarutti
     <img src="https://capsule-render.vercel.app/api?type=rect&text=ACDK%20Repository&fontAlign=50&fontSize=30&desc=INFONET%20-%20ETECVAV&descAlign=50&descAlignY=70&theme=radical"/>
   </a>
 </p>
+
 ---
 
 ## 📌 Sobre
