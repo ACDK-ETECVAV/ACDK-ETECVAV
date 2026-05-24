@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=253&color=gradient&text=ACDK%20|%20INFONET&section=header&reversal=false&textBg=false&fontAlign=50&desc=ETECVAV%20-%201D&descAlignY=67" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=253&color=gradient&text=ACDK%20|%20INFONET&section=header&reversal=false&textBg=false&fontAlign=50&desc=ETECVAV%20-%201D&descAlignY=71">
 </p>
-
-# 💻 ACDK | INFONET
 
 <p align="center">
 Grupo acadêmico do curso técnico de <strong>Informática para Internet</strong> da ETECVAV.
