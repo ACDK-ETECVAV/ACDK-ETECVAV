@@ -33,8 +33,11 @@ Escola Técnica Estadual Vasco Antônio Venchiarutti
 
 ---
 
-[![ACDK Repository](https://capsule-render.vercel.app/api?type=rect&text=ACDK%20Repository&fontAlign=50&fontSize=30&desc=INFONET%20-%20ETECVAV&descAlign=50&descAlignY=70&theme=radical)](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D)
-
+<p align="center">
+  <a href="https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D">
+    <img src="https://capsule-render.vercel.app/api?type=rect&text=ACDK%20Repository&fontAlign=50&fontSize=30&desc=INFONET%20-%20ETECVAV&descAlign=50&descAlignY=70&theme=radical"/>
+  </a>
+</p>
 ---
 
 ## 📌 Sobre
