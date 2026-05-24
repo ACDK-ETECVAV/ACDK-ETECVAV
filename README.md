@@ -35,10 +35,7 @@ Escola Técnica Estadual Vasco Antônio Venchiarutti
 
 ## 📸 Galeria / Projetos
 
-<p align="center">
-  <img src="COLOQUE_AQUI_UMA_IMAGEM_OU_GIF" width="250px">
-  <img src="COLOQUE_AQUI_OUTRA_IMAGEM_OU_GIF" width="250px">
-</p>
+[![ACDK Repository](https://capsule-render.vercel.app/api?type=rect&text=ACDK%20Repository&fontAlign=50&fontSize=30&desc=INFONET%20-%20ETECVAV&descAlign=50&descAlignY=70&theme=radical)](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D)
 
 ---
 
