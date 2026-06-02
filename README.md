@@ -56,9 +56,3 @@ Este perfil foi criado para compartilhar atividades, projetos, exercícios e con
 <p align="center">
   <img src="img/etecvav.png" alt="Descrição da imagem" width="700">
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&height=253&color=random&section=footer&reversal=false&textBg=false&fontAlign=50&descAlignY=50">
-</p>
