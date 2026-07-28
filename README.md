@@ -23,6 +23,8 @@
 
 ---
 
+<div align="center">
+  
 # 👥 Integrantes
 
 | Integrante | Função |
@@ -32,15 +34,23 @@
 | 🧢 Daniel Teixeira Vitoriano | 🔎 Pesquisa |
 | 🍰 Kelven Chetz Man Gallippi | 📝 Documentação |
 
+</div>
+
 ---
 
+<div align="center">
+  
 # 🏫 Instituição
 
 **ETEC Vasco Antônio Venchiarutti (ETECVAV)**
 
 📍 Curso Técnico em **Informática para Internet (INFONET)**
 
+</div>
+
 ---
+
+<div align="center">
 
 # 📚 Disciplinas
 
@@ -51,6 +61,8 @@
 | 🎨 AD | Arte Digital |
 | 💡 PA | Programação e Algoritmos |
 | 📁 PTIC | Projetos de Tecnologia da Informação e Comunicação |
+
+</div>
 
 ---
 
@@ -73,20 +85,6 @@
 </a>
 
 </p>
-
----
-
-# 📌 Objetivo
-
-Este perfil tem como finalidade reunir e documentar a evolução do grupo durante o curso **INFONET**, compartilhando:
-
-- 💻 Projetos
-- 📚 Trabalhos
-- 📂 Atividades
-- 🧠 Exercícios
-- 🌐 Desenvolvimento Web
-- 🗄️ Banco de Dados
-- 🎨 Design Digital
 
 ---
 
