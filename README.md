@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Repositório-Principal-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
-  <a href="https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/README.md">
+  <a href="https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/Recursos/README.md">
     <img src="https://img.shields.io/badge/🛠️%20Ferramentas-Ver%20Documentação-0EA5E9?style=for-the-badge">
   </a>
 
