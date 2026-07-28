@@ -1,58 +1,105 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=253&color=random&text=ACDK%20|%20INFONET&section=header&reversal=false&textBg=false&fontAlign=50&desc=ETECVAV%20-%201D&descAlignY=71">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=ACDK%20|%20INFONET&section=header&fontAlign=50&desc=ETEC%20Vasco%20Antônio%20Venchiarutti%20•%201º%20Desenvolvimento&descAlignY=71"/>
 </p>
 
 <p align="center">
-Grupo acadêmico do curso técnico de <strong>Informática para Internet</strong> da ETECVAV.
+  <strong>Grupo Acadêmico • INFONET • ETECVAV</strong><br>
+  Repositório destinado ao armazenamento de atividades, projetos e trabalhos desenvolvidos durante o curso Técnico em Informática para Internet.
 </p>
-
----
-
-## 👨‍💻 Integrantes
-
-- 🧑🏻 Anthony Muraro  
-- 👱🏻 Calebe Barros Ramalho da Silva  
-- 🧢 Daniel Teixeira Vitoriano  
-- 🍰 Kelven Chetz Man Gallippi  
-
----
-
-## 🎓 Instituição
-
-**ETECVAV**  
-Escola Técnica Estadual Vasco Antônio Venchiarutti  
-
----
-
-## 📚 Disciplinas
-
-- 🌐 Desenvolvimento Web  
-- 🗄️ Banco de Dados  
-- 🖼️ Arte Digital  
-- 💡 Programação e Algoritmos  
-
----
 
 <p align="center">
   <a href="https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D">
-    <img src="https://capsule-render.vercel.app/api?type=rect&text=ACDK%20Repository&fontAlign=50&fontSize=30&desc=INFONET%20-%20ETECVAV&descAlign=50&descAlignY=70&theme=radical"/>
+    <img src="https://img.shields.io/badge/Repositório-Principal-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+
+  <a href="https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/README.md">
+    <img src="https://img.shields.io/badge/🛠️%20Ferramentas-Ver%20Documentação-0EA5E9?style=for-the-badge">
+  </a>
+
+  <img src="https://img.shields.io/badge/Curso-INFONET-2563EB?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/Ano%20Letivo-2026-7C3AED?style=for-the-badge">
 </p>
 
 ---
 
-## 📌 Sobre
+# 👥 Integrantes
 
-Este perfil foi criado para compartilhar atividades, projetos, exercícios e conteúdos desenvolvidos durante o curso INFONET.
+| Integrante | Função |
+|:-----------|:------:|
+| 🧑🏻 Anthony Muraro | 💻 Desenvolvimento |
+| 👱🏻 Calebe Barros Ramalho da Silva | 📂 Organização |
+| 🧢 Daniel Teixeira Vitoriano | 🔎 Pesquisa |
+| 🍰 Kelven Chetz Man Gallippi | 📝 Documentação |
 
 ---
 
-## 📬 Contato
+# 🏫 Instituição
 
-📧 **Email:** aleatorizando29@gmail.com
+**ETEC Vasco Antônio Venchiarutti (ETECVAV)**
+
+📍 Curso Técnico em **Informática para Internet (INFONET)**
+
+---
+
+# 📚 Disciplinas
+
+| Sigla | Disciplina |
+|:----:|:------------|
+| 🌐 IW | Interface Web |
+| 🗄️ BD | Banco de Dados |
+| 🎨 AD | Arte Digital |
+| 💡 PA | Programação e Algoritmos |
+| 📁 PTIC | Projetos de Tecnologia da Informação e Comunicação |
+
+---
+
+# 🚀 Repositórios
+
+<div align="center">
+
+| Repositório | Descrição |
+|:-----------:|:----------|
+| 📂 **ETECVAV-AULAS-1D** | Todas as atividades e projetos desenvolvidos durante o curso. |
+| 🛠️ **Ferramentas** | Documentação das tecnologias utilizadas pelo grupo. |
+
+</div>
+
+<p align="center">
+
+<a href="https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D">
+<img src="https://capsule-render.vercel.app/api?type=rect&theme=radical&height=90&text=📂%20Acessar%20Repositório%20Principal&fontSize=28"/>
+
+</a>
+
+</p>
+
+---
+
+# 📌 Objetivo
+
+Este perfil tem como finalidade reunir e documentar a evolução do grupo durante o curso **INFONET**, compartilhando:
+
+- 💻 Projetos
+- 📚 Trabalhos
+- 📂 Atividades
+- 🧠 Exercícios
+- 🌐 Desenvolvimento Web
+- 🗄️ Banco de Dados
+- 🎨 Design Digital
+
+---
+
+# 📬 Contato
+
+📧 **E-mail:** `aleatorizando29@gmail.com`
 
 ---
 
 <p align="center">
-  <img src="img/etecvav.png" alt="Descrição da imagem" width="700">
+  <img src="img/etecvav.png" width="700">
+</p>
+
+<p align="center">
+  <i>"Aprender, desenvolver e compartilhar conhecimento."</i>
 </p>
