@@ -15,9 +15,10 @@
   <a href="https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/Recursos/README.md">
     <img src="https://img.shields.io/badge/🛠️%20Ferramentas-Ver%20Documentação-0EA5E9?style=for-the-badge">
   </a>
-
+  
+  <a href="https://etevav.com.br/">
   <img src="https://img.shields.io/badge/Curso-INFONET-2563EB?style=for-the-badge">
-
+  </a>  
   <img src="https://img.shields.io/badge/Ano%20Letivo-2026-7C3AED?style=for-the-badge">
 </p>
 
